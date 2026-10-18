@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joinhubb.online/sitemap.xml
